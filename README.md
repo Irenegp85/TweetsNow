@@ -25,7 +25,7 @@ Valid time formats:
 # Features
 <ul>
 <li>Use twitter rest api for searching tweets</li>
-<li>Use retrofit to do the petitions to twitter</li>
+<li>Use retrofit to make requests to twitter</li>
 <li>Use glide to download image profile from twitter user</li>
 <li>Use sugar to save the tweets downloaded in local database</li>
 <li>Use RecyclerView and CardView from the Android Material Design</li>
