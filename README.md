@@ -24,6 +24,7 @@ Valid time formats:
 
 # Features
 <ul>
+<li>Use twitter rest api for searching tweets</li>
 <li>Use retrofit to do the petitions to twitter</li>
 <li>Use glide to download image profile from twitter user</li>
 <li>Use sugar to save the tweets downloaded in local database</li>
@@ -31,6 +32,15 @@ Valid time formats:
 <li>Use SwipeRefreshLayout for a good usability</li>
 <li>User Recycler View animations from <a href="https://github.com/wasabeef/recyclerview-animators">Daichi Furiya (Wasabeef) </a></li>
 </ul>
+
+
+
+
+
+
+
+
+
 
 
 
