@@ -46,22 +46,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.05964912" vertical-offset="1887" max-vertical-offset="6205">
-              <caret line="112" column="8" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+            <state vertical-scroll-proportion="-2.4285715" vertical-offset="51" max-vertical-offset="6018">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3905#4346#0" expanded="true" />
-                <element signature="e#4335#4336#0" expanded="true" />
-                <element signature="e#6091#6137#0" expanded="true" />
-                <element signature="e#6272#6318#0" expanded="true" />
-                <element signature="e#7322#7333#0" expanded="true" />
-                <element signature="e#8092#8138#0" expanded="true" />
-                <element signature="e#10851#10862#0" expanded="true" />
-                <element signature="e#10912#11738#0" expanded="true" />
-                <element signature="e#11727#11728#0" expanded="true" />
+                <element signature="e#3853#4250#0" expanded="true" />
+                <element signature="e#4239#4240#0" expanded="true" />
+                <element signature="e#5995#6041#0" expanded="true" />
+                <element signature="e#6176#6222#0" expanded="true" />
+                <element signature="e#7157#7168#0" expanded="true" />
+                <element signature="e#7855#7901#0" expanded="true" />
+                <element signature="e#10381#10392#0" expanded="true" />
+                <element signature="e#10442#11268#0" expanded="true" />
+                <element signature="e#11257#11258#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,21 +96,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TweetInfo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/model/TweetInfo.java">
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="986">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+              <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TweetsResponse.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/api/model/TweetsResponse.java">
+      <file leaf-file-name="TweetInfo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/model/TweetInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="391">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="986">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -137,24 +136,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FixedRecyclerView.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="FixedRecyclerView.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/custom/FixedRecyclerView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state vertical-scroll-proportion="1.0838926" vertical-offset="0" max-vertical-offset="646">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyAdapter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/adapter/MyAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="1564">
-              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -1553,16 +1542,15 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4369">
           <caret line="196" column="88" selection-start-line="196" selection-start-column="88" selection-end-line="196" selection-end-column="88" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3905#4346#0" expanded="true" />
-            <element signature="e#4335#4336#0" expanded="true" />
-            <element signature="e#6091#6137#0" expanded="true" />
-            <element signature="e#6272#6318#0" expanded="true" />
-            <element signature="e#7322#7333#0" expanded="true" />
-            <element signature="e#8092#8138#0" expanded="true" />
-            <element signature="e#10851#10862#0" expanded="true" />
-            <element signature="e#10912#11738#0" expanded="true" />
-            <element signature="e#11727#11728#0" expanded="true" />
+            <element signature="e#3853#4250#0" expanded="true" />
+            <element signature="e#4239#4240#0" expanded="true" />
+            <element signature="e#5995#6041#0" expanded="true" />
+            <element signature="e#6176#6222#0" expanded="true" />
+            <element signature="e#7157#7168#0" expanded="true" />
+            <element signature="e#7855#7901#0" expanded="true" />
+            <element signature="e#10381#10392#0" expanded="true" />
+            <element signature="e#10442#11268#0" expanded="true" />
+            <element signature="e#11257#11258#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1647,16 +1635,15 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1288" max-vertical-offset="2074">
           <caret line="103" column="156" selection-start-line="103" selection-start-column="156" selection-end-line="103" selection-end-column="156" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3905#4346#0" expanded="true" />
-            <element signature="e#4335#4336#0" expanded="true" />
-            <element signature="e#6091#6137#0" expanded="true" />
-            <element signature="e#6272#6318#0" expanded="true" />
-            <element signature="e#7322#7333#0" expanded="true" />
-            <element signature="e#8092#8138#0" expanded="true" />
-            <element signature="e#10851#10862#0" expanded="true" />
-            <element signature="e#10912#11738#0" expanded="true" />
-            <element signature="e#11727#11728#0" expanded="true" />
+            <element signature="e#3853#4250#0" expanded="true" />
+            <element signature="e#4239#4240#0" expanded="true" />
+            <element signature="e#5995#6041#0" expanded="true" />
+            <element signature="e#6176#6222#0" expanded="true" />
+            <element signature="e#7157#7168#0" expanded="true" />
+            <element signature="e#7855#7901#0" expanded="true" />
+            <element signature="e#10381#10392#0" expanded="true" />
+            <element signature="e#10442#11268#0" expanded="true" />
+            <element signature="e#11257#11258#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1793,14 +1780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="363" max-vertical-offset="663">
-          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="646">
@@ -1857,24 +1836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/adapter/MyAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="1564">
-          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/custom/FixedRecyclerView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/interfaces/AuxiliarAsyncFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
@@ -1899,21 +1860,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/adapter/MyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="930" max-vertical-offset="1564">
+          <caret line="78" column="87" selection-start-line="78" selection-start-column="85" selection-end-line="78" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05964912" vertical-offset="1887" max-vertical-offset="6205">
-          <caret line="112" column="8" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+        <state vertical-scroll-proportion="-2.4285715" vertical-offset="51" max-vertical-offset="6018">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#3853#4250#0" expanded="true" />
+            <element signature="e#4239#4240#0" expanded="true" />
+            <element signature="e#5995#6041#0" expanded="true" />
+            <element signature="e#6176#6222#0" expanded="true" />
+            <element signature="e#7157#7168#0" expanded="true" />
+            <element signature="e#7855#7901#0" expanded="true" />
+            <element signature="e#10381#10392#0" expanded="true" />
+            <element signature="e#10442#11268#0" expanded="true" />
+            <element signature="e#11257#11258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/irene/test/tweetsnow/custom/FixedRecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0838926" vertical-offset="0" max-vertical-offset="646">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3905#4346#0" expanded="true" />
-            <element signature="e#4335#4336#0" expanded="true" />
-            <element signature="e#6091#6137#0" expanded="true" />
-            <element signature="e#6272#6318#0" expanded="true" />
-            <element signature="e#7322#7333#0" expanded="true" />
-            <element signature="e#8092#8138#0" expanded="true" />
-            <element signature="e#10851#10862#0" expanded="true" />
-            <element signature="e#10912#11738#0" expanded="true" />
-            <element signature="e#11727#11728#0" expanded="true" />
           </folding>
         </state>
       </provider>

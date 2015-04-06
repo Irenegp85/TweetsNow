@@ -1,13 +1,11 @@
 package com.irene.test.tweetsnow;
 
 import android.content.Context;
-import android.os.Handler;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.util.Base64;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
@@ -121,7 +119,6 @@ public class MainActivity extends ActionBarActivity {
         srl_items.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-               Log.v(TAG,"Swipe listener");
                 if (auth != null && auth.getTokenType().equals("bearer")) {
                     // Authenticate API requests with bearer token
                     getTweets(auth.getAccessToken());
@@ -220,13 +217,11 @@ public class MainActivity extends ActionBarActivity {
 
                 if (result) {
                     TweetsResponse status = (TweetsResponse) ret;
-                    Log.v(TAG, "size " + status.getTweets().size());
 
                     ArrayList<TweetInfo> tweets = new ArrayList<TweetInfo>();
 
                     for(int i = 0; i < status.getTweets().size(); i++){
                         Tweet t = status.getTweets().get(i);
-                        Log.v(TAG,status.getTweets().get(i).getText());
                         String strText = correctText(t.getText());
                         TweetInfo ti = new TweetInfo(t.getDateCreated(), strText, t.getRetWeetCount(), t.getUser().getName(), t.getUser().getScreenName(), t.getUser().getImage());
                         ti.save();
@@ -258,9 +253,6 @@ public class MainActivity extends ActionBarActivity {
     private String correctText(String text){
         int intIndexOf = 0;
         String strText;
-
-        Log.v(TAG,"It's "+strSearchingTime);
-        Log.v(TAG,"It's "+strSearchingTime24);
 
         intIndexOf = text.toLowerCase().indexOf("it's " + strSearchingTime);
         if(intIndexOf<0) intIndexOf = text.toLowerCase().indexOf("it is " + strSearchingTime);
@@ -304,9 +296,6 @@ public class MainActivity extends ActionBarActivity {
         }
 
         query = QUERY_BASE.replace(QUERY_PARAM_REPLACE,strTime) + QUERY_CONNECTOR + QUERY_BASE.replace(QUERY_PARAM_REPLACE,strTimeAmPm) + QUERY_CONNECTOR + QUERY_BASE.replace(QUERY_PARAM_REPLACE,strTimeAmPm.replace(" ", ""));
-
-        Log.v(TAG, c.get(Calendar.HOUR)+" "+c.get(Calendar.HOUR_OF_DAY)+" "+c.get(Calendar.MINUTE));
-        Log.v(TAG, "QUERY " + query);
 
         return query;
     }
