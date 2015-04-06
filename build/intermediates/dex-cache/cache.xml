@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Irene\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-2030272729e5094d2d4ebc40a39928e0bf32763a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\gson-2.3.1-8e69bb4bb564b6e9ed659c33c6506cec0353aeed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\classes-3844df7ad5a390eafd065834989ac61da620d5d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-ca56f625bb2882ab010aa4711b6009ab59e663ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-7923a88c1cc834e29836723a94fdbcf1754dd655.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.1.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="31f1c32f2fee9945f081b5336f721304a2453faf">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\classes-c0ca60295f1a44ee2bc71fd1d6853237b1286248.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\okio-1.2.0-be8a5e1ea299bf1a9e0660b1078e8fb42e0bb6cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d7e8e21f56eef79321807504d00238ecb6c5a4d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\classes-c943b107214be92a4cf560a5568ec7513ea3ca46.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="07e07903922250dabf50c7d131d6fa069a050305">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\classes-7daaf67b49b18a61907162f775b8e92cce6012ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\classes-8e1a9e9e24ec603cd6e136a0fe94f7a1224789c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\classes-d677f9390828f7b58fc474e163343c3807e15145.jar" />
+    </item>
+    <item
+        jar="C:\Users\Irene\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="C:\Users\Irene\AndroidStudioProjects\TweetsNow\app\build\intermediates\pre-dexed\debug\glide-3.5.2-759cef2a4453173cba180453bdfab60340c1049e.jar" />
+    </item>
+
+</items>

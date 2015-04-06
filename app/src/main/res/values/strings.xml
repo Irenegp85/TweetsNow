@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TweetsNow</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Activity -->
+    <string name="main_error_server_petition">Has occurred an error doing the petition</string>
+</resources>
